@@ -6,7 +6,7 @@
 public class HelloWorld {
 
     // "main" makes this class a java app that can be executed
-    public static void main(final String[] args) {
+    public static void main(String[] args) {
 
         // output hello world to the system's output device
         System.out.println("Hello world");
@@ -14,3 +14,4 @@ public class HelloWorld {
     }
 
 }
+// Git commit 2 example: remove key word from main method
